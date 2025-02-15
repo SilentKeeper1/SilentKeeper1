@@ -11,7 +11,7 @@
 - JavaScript 🌐
 - HTML & CSS 🎨
 - Git and GitHub 🛠
-- Databases (SQL, NoSQL) 🗄
+- Databases (SQL) 🗄
 - Flask ⚙️
 
 Thanks for visiting! 🚀
