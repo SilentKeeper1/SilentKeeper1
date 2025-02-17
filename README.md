@@ -13,5 +13,6 @@
 - Git and GitHub 🛠
 - Databases (SQL) 🗄
 - Flask ⚙️
+- Bootstrap 🎨
 
 Thanks for visiting! 🚀
