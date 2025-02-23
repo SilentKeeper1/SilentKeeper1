@@ -12,7 +12,7 @@
 - HTML & CSS 🎨
 - Git and GitHub 🛠
 - Databases (SQL) 🗄
-- Flask ⚙️
+- Flask & Flask Jinja⚙️
 - Bootstrap 🎨
 
 Thanks for visiting! 🚀
