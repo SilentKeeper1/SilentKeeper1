@@ -8,7 +8,6 @@
 ## Technologies I'm Learning
 
 - Python 🐍
-- JavaScript 🌐
 - HTML & CSS 🎨
 - Git and GitHub 🛠
 - Databases (SQL) 🗄
