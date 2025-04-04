@@ -3,8 +3,8 @@
 ## 🚀 About Me
 
 I am a passionate programming student at [GoITeens](https://goiteens.ua/) with a strong interest in web development and backend technologies. Constantly improving my skills and exploring new technologies to build efficient and scalable applications.
-
-## 🛠 Technologies & Tools
+Google for Developer [My Profile](https://g.dev/l_yehor)
+## 🛠 Technologies & Tools 
 
 ### 🌟 Core Skills:
 
