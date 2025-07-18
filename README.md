@@ -1,17 +1,16 @@
-# 👋 Hello there!
+# 🙋‍♂️ Привіт!
 
-## 🧠 About Me
+## 🧠 Про мене
 
-I'm **Yehor**, a passionate backend/web developer in the making, currently leveling up at [GoITeens](https://goiteens.ua/). I recently helped build **[Borichkas Slop](https://borichkas-slop.onrender.com/)** — a full-featured pizza delivery web app with everything from login to checkout, and even an interactive delivery map.
+Я — Єгор, зараз навчаюсь на курсі [GoITeens](https://goiteens.ua/) і поступово вливаюся в тему веб-розробки.  
+З останнього — зробили з командою **[Borichkas Slop](https://borichkas-slop.onrender.com/)** — сайт доставки піци з реєстрацією, кошиком, адмінкою і картою.
 
-Always exploring new tech and sharpening my skills to craft clean, scalable, and functional apps.  
-Check me out on Google Developers: [g.dev/l_yehor](https://g.dev/l_yehor)
+Люблю кодити просто й зрозуміло. Без пафосу, але по суті.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Технології, з якими вже на «ти»
 
-### 🌟 Core Skills:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
@@ -27,21 +26,29 @@ Check me out on Google Developers: [g.dev/l_yehor](https://g.dev/l_yehor)
 
 ---
 
-## 📈 Currently Learning
+## 🔍 Що зараз вивчаю (або «копаюсь» у цьому)
 
-- 🔌 REST API creation and consumption  
-- 🧩 Relational DB design and optimization  
-- ⚡️ JavaScript interactivity and DOM logic  
-- ☁️ Cloud hosting and deployment (like Render)
-
----
-
-## 🍕 Featured Project: [Borichkas Slop](https://borichkas-slop.onrender.com/)
-
-> A full-stack pizza delivery platform built with Flask, SQLAlchemy, Leaflet.js, and Bootstrap. Features user auth, admin panel, interactive delivery map, dynamic cart, and a smooth checkout experience.  
-> Made with ❤️ in a 3-person team during **GoITeens Python Web course**.
+- 🐍 FastAPI — нова пушка в моєму стеку  
+- 🔗 API — як підключити, передати, не зламати  
+- 🧠 SQL — трохи магії з JOIN’ами  
+- ⚙️ JavaScript — щоб кнопки реально жили  
+- ☁️ Деплой на Render — бо локалхост — то не назавжди
 
 ---
 
-### 🤝 Let’s build something epic.  
-Thanks for stopping by! 😊🚀
+## 🍕 Проєкт: [Borichkas Slop](https://borichkas-slop.onrender.com/)
+
+> Повноцінна доставка піци онлайн з реєстрацією, замовленням, картою і адмінкою.  
+> Flask + SQLAlchemy + Leaflet + Bootstrap.  
+> Команда з 3-х учасників, зроблено в рамках курсу **GoITeens Python Web**.
+
+---
+
+## 🚧 Проєкти
+
+🥱 Після Borichkas Slop — **тютють відпустка**  
+⏳ Скоро буде новий двіж
+
+---
+
+### 🧩 Просто кодерю коли є натхнення. Нічого зайвого.
