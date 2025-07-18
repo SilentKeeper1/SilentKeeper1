@@ -1,44 +1,54 @@
-# 👋 Привіт! Я Єгор
+# 🙋‍♂️ Привіт!
 
-Розробник із фокусом на Flask, веб-деплоймент, та креативні технічні рішення. Поєдную точність коду з нестандартним мисленням. Працюю над проєктами, які не просто працюють — вони мають характер.
+## 🧠 Про мене
 
----
+Я — Єгор, зараз навчаюсь на курсі [GoITeens](https://goiteens.ua/) і поступово вливаюся в тему веб-розробки.  
+З останнього — зробили з командою **[Borichkas Slop](https://borichkas-slop.onrender.com/)** — сайт доставки піци з реєстрацією, кошиком, адмінкою і картою.
 
-## 🛠️ Технології та інструменти
-
-- **Back-end**: Python, Flask, FastAPI
-- **Front-end**: HTML, CSS (SASS), JavaScript, Leaflet
-- **DevOps**: Render.com, GitHub Actions, Docker (базово)
-- **Інше**: CLI-інструменти, REST API, Postman
+Люблю кодити просто й зрозуміло. Без пафосу, але по суті.
 
 ---
 
-## 📌 Обрані репозиторії
+## 🛠 Технології, з якими вже на «ти»
 
-| Назва | Опис | Технології |
-|------|------|------------|
-| [Borichkas Slop](https://github.com/YOUR_USERNAME/Borichkas-Slop) | Креативний Flask-проєкт з командною логікою | Flask, HTML, CSS |
-| [Saurum](https://github.com/YOUR_USERNAME/Saurum) | CLI-інструмент для керування задачами | Python |
-| [Map Project](https://github.com/YOUR_USERNAME/Map-Project) | Інтерактивна карта з Leaflet | JS, Leaflet |
-
-> 📁 Більше репозиторіїв — у вкладці [Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
-
----
-
-## 📊 Статистика активності
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ---
 
-## 📫 Контакти
+## 🔍 Що зараз вивчаю (або «копаюсь» у цьому)
 
-- Email: your.email@example.com
-- Telegram: [@yourhandle](https://t.me/yourhandle)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐍 FastAPI — нова пушка в моєму стеку  
+- 🔗 API — як підключити, передати, не зламати  
+- 🧠 SQL — трохи магії з JOIN’ами  
+- ⚙️ JavaScript — щоб кнопки реально жили  
+- ☁️ Деплой на Render — бо локалхост — то не назавжди
 
 ---
 
-_Цей профіль — не просто код. Це історія про те, як хаос стає системою._
+## 🍕 Проєкт: [Borichkas Slop](https://borichkas-slop.onrender.com/)
 
+> Повноцінна доставка піци онлайн з реєстрацією, замовленням, картою і адмінкою.  
+> Flask + SQLAlchemy + Leaflet + Bootstrap.  
+> Команда з 3-х учасників, зроблено в рамках курсу **GoITeens Python Web**.
+
+---
+
+## 🚧 Проєкти
+
+🥱 Після Borichkas Slop — **тютють відпустка**  
+⏳ Скоро буде новий двіж
+
+---
+
+### 🧩 Просто кодерю коли є натхнення. Нічого зайвого.
