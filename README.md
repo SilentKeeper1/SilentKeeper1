@@ -1,61 +1,67 @@
-# 🙋‍♂️ Привіт!
-
-## 🧠 Про мене
-
-Я — Єгор, зараз навчаюсь на курсі [GoITeens](https://goiteens.ua/) і поступово вливаюся в тему веб-розробки.  
-З останнього — зробили з командою **[Borichkas Slop](https://borichkas-slop.onrender.com/)** — сайт доставки піци з реєстрацією, кошиком, адмінкою і картою.
-
-Люблю кодити просто й зрозуміло. Без пафосу, але по суті.
+<h1 align="center">🙋‍♂️ Привіт!</h1>
 
 ---
 
-## 🛠 Технології, з якими вже на «ти»
+## 🧠 Хто я
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+Йо, я Єгор — вчуся в GoITeens і поступово прокачуюсь у веб-розробці.  
+Недавно з командою зліпили **Borichkas Slop** — сайт доставки піци з усім, що треба:  
+**реєстрація**, **кошик**, **адмінка**, **карта** — все як у дорослих 😎
+
+> Люблю кодити так, щоб і бабуся зрозуміла.  
+> **Простіше = краще.**
+
+---
+
+## 🛠 Що вже вмію
+
+<p align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
 </p>
 
 ---
 
-## 🔍 Що зараз вивчаю (або «копаюсь» у цьому)
+## 🔍 Що зараз вивчаю
 
-- 🐍 FastAPI — нова пушка в моєму стеку  
-- 🔗 API — як підключити, передати, не зламати  
-- 🧠 SQL — трохи магії з JOIN’ами  
-- ⚙️ JavaScript — щоб кнопки реально жили  
-- ☁️ Деплой на Render — бо локалхост — то не назавжди
-
----
-
-## 🍳 В РОЗРОБЦІ: [Їстощо](#)
-
-> Ваш кухонний помічник — просто введіть продукти з холодильника, і додаток підкаже, що приготувати.  
-> ✅ Зменшення фудвейсту  
-> ✅ Пошук рецептів по наявних інгредієнтах  
-> ✅ Вбудована база рецептів із зручною фільтрацією  
-> ✅ Категорії: вегетаріанські, бюджетні, сніданки та інші  
->
-> 🛠 **Стек**: FastAPI + HTML/CSS/JS + база даних  
->
-> ⏳ Реліз планується в **1 кварталі 2026**
+- 🐍 **FastAPI** — нова ракета в арсеналі  
+- 🔗 **API** — щоб вміти тягнути, пушити і не ламати  
+- 🧠 **SQL** — особливо ті страшні JOIN'и  
+- ⚙️ **JavaScript** — щоб кнопки не просто існували, а працювали  
+- ☁️ **Render** — бо хоститись локально — це як тримати сайт у шухляді  
 
 ---
 
-## 🚧 Проєкти
+## 🍳 Що готую — **Їстощо**
 
-🍕 **Borichkas Slop** — активно на модернізації, збираємо фідбек і допилюємо фічі  
-🍳 **Їстощо** — в розробці (реліз плануємо в 1 кварталі 2026)  
+> Просто вводиш, що є в холодильнику, а сайт каже, що можна зварганити 🍲
+
+- Мінус харчові відходи  
+- Мінус думати "що б з'їсти"  
+- Плюс база рецептів з фільтрами  
+- Категорії: **веган**, **бюджет**, **сніданки** та інше
+
+🛠 **Стек:** FastAPI + HTML/CSS/JS + база даних  
+⏳ **Реліз:** 1 квартал 2026
 
 ---
 
-### 🧩 Просто кодерю коли є натхнення. Нічого зайвого.
+## 🚧 Мої проєкти
+
+### 🍕 **Borichkas Slop**  
+> Вже живе, але постійно апдейтимо. Фідбек залетів — пиляємо далі
+
+### 🍳 **Їстощо**  
+> Ще в розробці, але буде бомбічне
+
+---
+
+## 🧩 Просто коджу в кайф. Без понтів. Як є.
