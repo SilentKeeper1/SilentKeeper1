@@ -14,6 +14,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -36,18 +37,24 @@
 
 ---
 
-## 🍕 Проєкт: [Borichkas Slop](https://borichkas-slop.onrender.com/)
+## 🍳 В РОЗРОБЦІ: [Їстощо](#)
 
-> Повноцінна доставка піци онлайн з реєстрацією, замовленням, картою і адмінкою.  
-> Flask + SQLAlchemy + Leaflet + Bootstrap.  
-> Команда з 3-х учасників, зроблено в рамках курсу **GoITeens Python Web**.
+> Ваш кухонний помічник — просто введіть продукти з холодильника, і додаток підкаже, що приготувати.  
+> ✅ Зменшення фудвейсту  
+> ✅ Пошук рецептів по наявних інгредієнтах  
+> ✅ Вбудована база рецептів із зручною фільтрацією  
+> ✅ Категорії: вегетаріанські, бюджетні, сніданки та інші  
+>
+> 🛠 **Стек**: FastAPI + HTML/CSS/JS + база даних  
+>
+> ⏳ Реліз планується в **1 кварталі 2026**
 
 ---
 
 ## 🚧 Проєкти
 
-🥱 Після Borichkas Slop — **тютють відпустка**  
-⏳ Скоро буде новий двіж
+🍕 **Borichkas Slop** — активно на модернізації, збираємо фідбек і допилюємо фічі  
+🍳 **Їстощо** — в розробці (реліз плануємо в 1 кварталі 2026)  
 
 ---
 
