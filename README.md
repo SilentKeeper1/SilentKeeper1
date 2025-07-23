@@ -55,15 +55,15 @@
 
 ---
 
-## 🌐 Зв'яжіться зі мною:
+<!--  ##🌐 Зв'яжіться зі мною:
 
 <p align="center">
   <a href="https://github.com/SilentKeeper1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:yehor.lebid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
+-->
 ---
-
+//
 ## 🧩 Моє кредо
 
 > Просто коджу в кайф. Без понтів. Як є. 🤘
