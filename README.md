@@ -51,6 +51,7 @@
 |------|--------|--------|
 | 🍕 **Borichkas Slop** | <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Badge"> | Піца, юзери, адмінка, карта. Є фідбек — буде апдейт, бо ми постійно вдосконалюємось! 📈 |
 | 🍳 **Їстощо** | <img src="https://img.shields.io/badge/Status-Development-blue?style=for-the-badge&logo=github" alt="Development Badge"> | Генератор рецептів з фільтрами та UX-фокусом — готуємо щось справді смачне! 😋 |
+| 🛡️ **Security Tools API** | <img src="https://img.shields.io/badge/Status-Prototype-yellow?style=for-the-badge&logo=fastapi" alt="Prototype Badge"> | Міні-API для практики FastAPI та асинхронності, показує JSON-відповіді з демо-даними без БД. 🔧 | |
 
 ---
 
