@@ -1,14 +1,26 @@
-# 👋 Я Єгор
+<h1 align="center">👋 Я Єгор</h1>
 
-Починаючий веб-розробник. Вчуся, коджу, експериментую.
+<p align="center">
+  Учень <strong>GoITeens</strong>, вивчаю веб-розробку.  
+  Працював із <code>Flask + SQLAlchemy</code>, зараз опановую <code>FastAPI</code>.  
+  Люблю прості, живі й корисні проєкти.
+</p>
+
+---
 
 ## ⚙️ Стек
-Python (Flask-FastAPI) • HTML • CSS • JS • SQLite
+Flask • FastAPI • HTML • CSS • JS • SQLite
 
-## 🛠 Проєкти
-- 🍕 Borichkas Slop — сайт доставки піци  
-- 🍳 Їстощо — рецептогенератор (Q1 2026)
-- 🔐 Security Tools API — демо API
+---
 
-## 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentKeeper1&layout=compact&theme=dark)
+## 🧩 Проєкти
+
+<p align="center">
+  🍕 <strong>Borichkas Slop</strong> — сайт доставки піци  
+  🍳 <strong>Їстощо</strong> — генератор рецептів  
+  🔐 <strong>Mini API</strong> — практика FastAPI
+</p>
+
+---
+
+<p align="center"><em>Коджу без понтів. Просто. Чисто. В кайф.</em></p>
